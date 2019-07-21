@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239348403875",
+    "firebase_url": "https://social-1d340.firebaseio.com",
+    "project_id": "social-1d340",
+    "storage_bucket": "social-1d340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239348403875:android:06909f4a47ccd703",
+        "android_client_info": {
+          "package_name": "com.locationservice.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239348403875-fdb63kod9daq8rc91a5mvt7b7n4g2alm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locationservice.myapplication",
+            "certificate_hash": "4f33be92007e4f5c2ae7524268c0d52d9fa0f341"
+          }
+        },
+        {
+          "client_id": "239348403875-1nl8j0r96ai9ma85fpsuq3rgbgq9mv2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDEYWEsW_aSARcWfUjKk9lYV2y7PtZrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239348403875-1nl8j0r96ai9ma85fpsuq3rgbgq9mv2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
