@@ -72,9 +72,9 @@ public class ForegroundServiceForLocation extends Service {
 
 
             Notification notification = notificationBuilder
-                    .setContentTitle("Truiton Music Player")
-                    .setTicker("Truiton Music Player")
-                    .setContentText("My Music")
+                    .setContentTitle("Forground services")
+                    .setTicker("Forground services")
+                    .setContentText("Forground services")
                     .setAutoCancel(false)
                     .setSmallIcon(R.drawable.ic_launcher_background)
                     /*.setLargeIcon(
